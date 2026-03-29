@@ -22,3 +22,13 @@ def fun(n,d):
 d= int(input())
 x = int(input())
 fun(x,d)
+
+~~~
+
+## OUTPUT
+<img width="1254" height="256" alt="image" src="https://github.com/user-attachments/assets/c49e26d9-1851-4c1a-a8c8-758fd3182596" />
+
+
+
+## RESULT
+Thus the required head recursion ouput is Verified.
